@@ -1,6 +1,6 @@
 # BT Real Estate
 
-BT Real Estate is web application that I learned from Brad from Traversy Media. 
+BT Real Estate is web application I learned from Brad from Traversy Media. 
 
 ### Features!
 
